@@ -1,7 +1,7 @@
-# DGCT AIT Full Stack Development Project
+# Full Stack Development Project
 
 ## Overview
-This repository contains the Full Stack Development project for DGCT AIT. The project is built using modern web development technologies and follows best practices for both frontend and backend development.
+This repository contains the Full Stack Development project. The project is built using modern web development technologies and follows best practices for both frontend and backend development.
 
 ## Features
 - Full stack web application
